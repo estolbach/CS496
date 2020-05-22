@@ -1,0 +1,9 @@
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Start test suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Test suite:1:add is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: End test suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Start test suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Test suite:4:lets is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: End test suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Start test suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Test suite:6:for_loop is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: End test suite:6:for_loop.

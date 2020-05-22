@@ -1,0 +1,100 @@
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Runner: processes
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Chooser: simple
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration suite_name = "suite"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration cache_filename = "/Users/Esti/cs496/hw5_stub/_build/oUnit-$(suite_name).cache"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration display = "true"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration results_style_1_X = "false"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration verbose = "false"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration health_check_interval = "1."
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration testdata_dir = "none"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration chooser = "simple"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration output_html_dir = "none"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration processes_kill_period = "5."
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration runner = "processes"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration shards = "2"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration processes_grace_period = "5."
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration log_encoding = "utf-8"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration output_junit_file = "none"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Configuration output_file = "/Users/Esti/cs496/hw5_stub/_build/oUnit-$(suite_name)-$(shard_id).log"
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Using 2 workers maximum.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Starting worker number host-155-246-137-66.dhcp.stevens-tech.edu#01.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Worker host-155-246-137-66.dhcp.stevens-tech.edu#01 started.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Starting worker number host-155-246-137-66.dhcp.stevens-tech.edu#02.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Worker host-155-246-137-66.dhcp.stevens-tech.edu#02 started.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:1:add, suite:0:int.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Start test suite:0:int.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:1:add, suite:0:int.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Test suite:0:int is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:1:add, suite:0:int.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: End test suite:0:int.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:1:add, suite:0:int.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Start test suite:2:adds.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Start test suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Test suite:2:adds is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: End test suite:2:adds.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:3:let, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Start test suite:3:let.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:3:let, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Test suite:1:add is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:3:let, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: End test suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:3:let, suite:1:add.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Start test suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Test suite:3:let is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: End test suite:3:let.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:5:multiple_args, suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Start test suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:5:multiple_args, suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Test suite:4:lets is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:5:multiple_args, suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: End test suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:5:multiple_args, suite:4:lets.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Still 2 tests running : suite:6:for_loop, suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:6:for_loop, suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: Test suite:5:multiple_args is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Start test suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Still 2 tests running : suite:6:for_loop, suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:6:for_loop, suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#01 I: End test suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Still 2 tests running : suite:6:for_loop, suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 2 tests running: suite:6:for_loop, suite:5:multiple_args.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Still 1 tests running : suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 1 tests running: suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: Test suite:6:for_loop is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Still 1 tests running : suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 1 tests running: suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#02 I: End test suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Still 1 tests running : suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 1 tests running: suite:6:for_loop.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: 0 tests running: .
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Worker host-155-246-137-66.dhcp.stevens-tech.edu#01 has ended.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Worker host-155-246-137-66.dhcp.stevens-tech.edu#02 has ended.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Used 2 worker during test execution.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Run 4 tests with shard host-155-246-137-66.dhcp.stevens-tech.edu#01.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Run 3 tests with shard host-155-246-137-66.dhcp.stevens-tech.edu#02.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: ==============
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Summary:
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:6:for_loop is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:5:multiple_args is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:4:lets is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:3:let is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:1:add is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:2:adds is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Test suite:0:int is successful.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Ran: 7 tests in: 0.12 seconds.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Cases: 7.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Tried: 7.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Errors: 0.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Failures: 0.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Skip: 0.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Todo: 0.
+2018-04-05T19:59:23+00:00 host-155-246-137-66.dhcp.stevens-tech.edu#00 I: Timeout: 0.
